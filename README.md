@@ -5,7 +5,8 @@ To use this bot, simply open the Solution, build then navigate to ZevBot/Bin/[Yo
 
 * Token
 * CommandPrefix  
-The token is your Bot token you get from `https://discordapp.com/developers/applications/`  
+The token is your Bot token you get from `https://discordapp.com/developers/applications/`
+
 The CommandPrefix is what your users will have to type in order for the bot to recognize it. The bot will responed to the prefix, or being pinged.
 
 ***The bot is provided as is***, I did not change any of the source code from the version that is running in the Apeiron discord.
