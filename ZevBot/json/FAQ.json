@@ -1,0 +1,15 @@
+{
+    "Release Date": "What is the release date?\nWhen it's done, we are working on it daily and want to deliver a full experience, we can not offer a release date at this point.",
+    "Progress": "Is there a percentage or a progress chart?\nNo and there probably won't be. Things are constantly evolving and again, we don't want to disappoint with something that is subject to change.",
+    "Platforms":"Will this support (x) platform?\nWe are only developing for the Windows platform at the moment. However, after Apeiron has been released, we do have plans for looking into the possibility of a Linux port.",
+    "System Requirements": "What are the system Requirements?\nThis is subject to change as we haven’t done any proper performance testing as of yet; however we ballpark the minimum specs to be a GTX 750Ti with at least 8gigs of RAM and an i3 CPU.",
+    "Team Size": "How many are in the team?\nNine (9) Currently.",
+    "Combat": "What's the combat like?\nStill D20 round based. Similar to the original but smoother and flashier, plus we’re adding several completely new mechanics.",
+    "FPS": "Will there be First Person combat?\nThere is a first person view, and we will allow combat in that perspective. But do not expect Jedi Knight styled combat.",
+    "New Content": "Are you adding new content?\nYes, we're adding in cut content such as Sleheyron, we're also expanding content significantly. Eg. Yavin surface, larger worlds, more customisation, etc.",
+    "Legal": "Is this legal?\nI will make it legal! Nah, but seriously, this is a fan project and we are doing our best to keep it under the guidelines of a fan project. We have no intention of making any profit off of this project. Now with that said, we are still using the Star Wars IP, and because of this it *is* possible for us to get shutdown. We are not immune. We are hopeful we do not get shutdown as this is a dream project of ours, however there is nothing to stop Disney/EA from sending us a C&D.",
+    "Voice Acting": "Can I be a voice actor?\nNo. We aren't hiring any voice roles, nor are we adding any to the game, we will be using the original games audio.",
+    "Volunteer": "Can I volunteer for Apeiron?\nSure! We're always on the lookout for talented and committed people. Send your portfolio and resume to - volunteer@apeirongame.com",
+    "Kotor2": "Will you do Kotor 2 after this?\nGiven the right circumstances. We'd need at least a Series A funding round along with starting capital and certain levels of creative freedom.",
+    "After Apeiron": "What's after Apeiron?\nWe will be working on our own IP."
+}

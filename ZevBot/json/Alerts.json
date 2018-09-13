@@ -1,0 +1,4 @@
+{
+    "HELP": "To run a command in the server, use `@ZevBot#6253 command` or `!command`.\nFor example, `@ZevBot#6253 faq`.\nTo view  a list of all valid commands, use !help all",
+    "COMMANDS": "\n\n__**All Commands**__\n\n\n\t\t\t\t\t\t\t\t__ToMemeText__\nCan accept a string of any length as a parameter.\nWill return a copy of that string in alternating case.\nExample: eXaMpLe\n\n\n\t\t\t\t\t\t\t\t\t__FAQ__\nIf used without any parameters, it will display a list\nof valid questions you can pass in as parameters.\nAll questions are case insensitive.\nExample: !faq Release date\n\n\nIf you have an idea of a Command, just send @minim#3100 a DM with the idea."
+}
